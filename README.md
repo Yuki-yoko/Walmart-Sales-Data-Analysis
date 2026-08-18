@@ -208,7 +208,6 @@ Durante o desenvolvimento do projeto, foram utilizados diversos conceitos de SQL
 - Agregação e comparação de dados
 
 ---
-
 # Estrutura do Projeto
 
 ```text
@@ -221,7 +220,10 @@ Walmart-Sales-Data-Analysis/
 │   └── WalmartData.sql
 │
 └── README.md
+```
+
 ---
+
 ## Autor
 Cristina Yuki Yokomizo
 
